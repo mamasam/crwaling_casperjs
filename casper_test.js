@@ -24,6 +24,6 @@ casper.then(function(){
     };
     console.log('my 종목명 : ' + this.evaluate(contents));
 });
-
+//dkdk
 
 casper.run();
